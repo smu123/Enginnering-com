@@ -53,3 +53,10 @@ System.out.println("Hello, Honeymon");
 취소선: ~~cancelline~~
 
 ![Alt text](https://user-images.githubusercontent.com/86451292/123567094-5dc73980-d7fc-11eb-9cce-24bcc572e2ed.JPG)
+
+
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | 뿡뿡이 | 51 | 9/13 |
